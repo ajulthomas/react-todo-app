@@ -2,14 +2,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 24px auto;
+  margin: 24px 15px;
 }
 
-.text-field{
+.text-field {
   width: 70%;
+  margin-right: 8px;
 }
 
-.add-button {
-  margin: auto 10px;
+.button {
   padding: 15px;
 }
