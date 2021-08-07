@@ -1,0 +1,19 @@
+.todo-item {
+  padding: 10px 24px;
+  display: flex;
+  background-color: rgba(218, 215, 206, 0.582);
+}
+.task {
+  display: flex;
+  align-items: center;
+}
+.complete {
+  text-decoration: line-through;
+}
+.spacer {
+  margin: auto;
+}
+
+.button {
+  margin: auto 5px;
+}
