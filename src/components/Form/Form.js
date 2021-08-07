@@ -8,7 +8,7 @@ export default function Form(props) {
   return (
     <div className="form-container">
       <TextField className="text-field" label="Add Task" variant="outlined" />
-      <Button className="add-button" variant="contained" color="primary">
+      <Button className="button" variant="contained" color="primary">
         Add Task
       </Button>
     </div>
